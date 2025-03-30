@@ -25,7 +25,7 @@ The **AutoRickshaw Fare Estimator** is a simple Android app designed to help use
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/autofare.git
+git clone https://github.com/Kshatriya770/AutoFare
 cd autofare
 ```
 
